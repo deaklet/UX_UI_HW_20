@@ -41,6 +41,10 @@ h1{
     padding-top: 40px;
 }
 
+.card{
+    text-align: center;
+}
+
 footer{
     background-color: #373738;
   }
