@@ -1,0 +1,62 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+.logo{
+  width: 12%;
+  padding: 1%;
+  text-align: top;
+  cursor: pointer;
+}
+
+nav{
+  width: 82%;
+  padding: 1%;
+  background-color: pink;
+}
+
+.inline-block li{
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 30px;
+}
+
+.inline-block ul{
+  width: 50%;
+  margin-left: auto;
+}
+
+p{
+    padding: 40px 0px 40px;
+    margin: auto;
+}
+
+ul{
+    padding: 40px 0px 40px;
+    margin: auto;
+}
+
+h1{
+    padding-top: 40px;
+}
+
+footer{
+    background-color: #373738;
+  }
+  
+  footer ul{
+    width: 50%;
+    margin-left: auto;
+    display: inline;
+    vertical-align: top;
+  }
+  
+  footer li{
+    display: inline-block;
+    padding: 20px;
+    margin: 30px;
+    color: white;
+    vertical-align: top;
+  }
+  
